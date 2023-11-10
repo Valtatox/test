@@ -1,0 +1,53 @@
+main{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+ul{
+    background-color: darkblue;
+    padding: 25px;
+    margin: -8px;
+}
+
+li{
+    text-align: right;
+    list-style: none;
+    word-spacing: 5px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.background{
+    background-color: cyan;
+    padding: 25px;
+
+}
+
+.text{
+    background-color: green;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 10px;
+    color: white;
+
+}
+
+footer{
+    background-color: purple;
+    padding: 25px;
+    margin: -8px;
+}
